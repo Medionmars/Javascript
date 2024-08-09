@@ -71,3 +71,14 @@ console.log(regex.test(string2));
 console.log(regex.test(string3));
 console.log(regex.test(string4));
 // Here we are using the regex method, we are checking if the word 'is' is in our string.
+
+var one = 1, two = 2, extra = 2;
+
+console.log(one === extra);
+console.log(one !== extra);
+
+console.log(one == one);
+console.log(one != "1");
+
+console.log(one >= two);
+// This are basic commands to check is somthing is diffrent, same, more or less than somthing else
