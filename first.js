@@ -81,4 +81,4 @@ console.log(one == one);
 console.log(one != "1");
 
 console.log(one >= two);
-// This are basic commands to check is somthing is diffrent, same, more or less than somthing else
+// This are basic commands to check is somthing is diffrent, same, more or less than somthing else.
